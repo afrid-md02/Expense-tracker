@@ -1,0 +1,39 @@
+# Expense-Tracker
+
+URL: https://expense-tracker-13ac1.web.app
+
+Project Title: Expense Tracker
+
+Objective/Goal:
+Developed an intuitive Expense Tracker application for users to efficiently track and manage their expenses.
+Utilized React JS for the front end and leveraged Firebase for authentication, database, and hosting.
+
+Role/Responsibilities:
+Led the development of the Expense Tracker, serving as the primary front-end developer.
+Implemented Firebase for secure user authentication, ensuring user data privacy.
+Designed features allowing users to edit their expenses and set a premium activation point at 10,000.
+Developed premium user features, including the ability to download expense data in Excel format and the addition of a night mode for enhanced user experience.
+
+Technologies Used:
+React JS for frontend development
+Firebase for authentication, database, and hosting
+
+Special Features:
+Implemented a premium activation system, restricting further expense addition once the amount reaches 10,000 for non-premium users.
+Developed functionality for premium users to download their expense data in Excel format, enhancing data accessibility.
+Added a night mode feature for improved user experience during low-light conditions.
+
+Challenges Faced:
+Overcame challenges related to implementing the premium activation system and ensuring a seamless transition for users.
+Addressed data security concerns while enabling premium users to download expense data.
+
+Achievements/Outcomes:
+Successfully delivered the Expense Tracker, providing users with a user-friendly platform for expense management.
+Enhanced user engagement with premium features, encouraging users to activate premium status for additional benefits.
+
+
+
+
+
+
+
